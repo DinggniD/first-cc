@@ -85,3 +85,7 @@ User presses Reset → appState = "idle", timeRemaining = full duration
 - **Tailwind CSS v4** — uses `@tailwindcss/vite` plugin, no PostCSS config
 - **Notification fallback** — Tauri plugin first, Web Notification API as fallback
 - **Sound** — Web Audio API (AudioContext singleton, two-tone beep)
+
+
+- 当你需要对前端视觉进行修改的时候，去参考[text]（品牌视觉规范）这个文件里的内容
+- 当你要写产品文字的时候，参考[text]（语言规范）这个文件里的内容
